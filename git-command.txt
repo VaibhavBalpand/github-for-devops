@@ -1,0 +1,14 @@
+
+   5 git add .
+   6 git status
+   7 rm .\testing.py
+   8 git restore testing.py
+   9 git status
+  10 git commit -m "added sucessfully "
+  11 git status
+  12 cleasr
+  13 clear
+  14 git remote add origin https://github.com/VaibhavBalpand/github-for-devops.git
+  15 git status
+  16 git push -u origin master
+  17 git push -u origin main
